@@ -24,6 +24,9 @@ I am sharing few of my favorite places which i would recommend to visit.
 |Varanasi| 5 | $500 |
 |Goa | 4 | $300 |
 
+![My Picture](nepal.jpg)
+![My Picture](varanasi.jpg)
+![My Picture](Goa.jpg)
 ---
 # My favorite qoutes
 
