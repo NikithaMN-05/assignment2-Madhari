@@ -22,4 +22,13 @@ I am sharing few of my favorite places which i would recommend to visit.
 |Varanasi| 5 | $500 |
 |Goa | 4 | $300 |
 
+---
+# My favorite qoutes
+
+1. "Float like a butterfly, Sting like a bee."-*Muhammad Ali*
+2. "The way to get started is to quit talking and begin doing."-*WaltDisney*
+
+
+
+
 
