@@ -28,6 +28,25 @@ I am sharing few of my favorite places which i would recommend to visit.
 1. "Float like a butterfly, Sting like a bee."-*Muhammad Ali*
 2. "The way to get started is to quit talking and begin doing."-*WaltDisney*
 
+---
+# Code fencing
+> Lite-C is a programming language for multimedia applications and personal computer games, using a syntax subset of the C language with some elements of the C++ language. Its main difference to C is the native implementation of multimedia and computer game related objects like sounds, images, movies, GUI elements, 2D and 3D models, collision detection and rigid body physics. 
+
+source link:<https://en.wikipedia.org/wiki/Lite-C>
+
+```
+void main()
+{
+   level_load(""); // open an empty level. you can use NULL instead of ""
+   ENTITY* sphere = ent_create("sphere.mdl",vector(0,0,0),NULL); // create sphere model at position (0,0,0)
+   while(1) {
+      sphere->pan += 1; // rotate the sphere with 1 degree per frame
+      wait(1);  // wait one frame
+   }
+}
+
+```
+code source <https://codelani.com/languages/lite-c.html>
 
 
 
