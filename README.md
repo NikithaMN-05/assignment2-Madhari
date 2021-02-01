@@ -13,4 +13,13 @@ Programmer analyst
 
 [About Me](AboutMe.md)
 
+---
+
+I am sharing few of my favorite places which i would recommend to visit.
+|Location| Time | Expenditure |
+|:---: | :---: | :---: |
+|Nepal| 6 | $600 |
+|Varanasi| 5 | $500 |
+|Goa | 4 | $300 |
+
 
