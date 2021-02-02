@@ -6,6 +6,7 @@ Pav bhaji is a fast food **from India** that consist of spicy mix vegetable mash
 ![My Picture](pavbhaji1.jpg)
 ![My Picture](pavbhaji2.jpg)
 ---
+# ordered and unordered list
 Programmer analyst
 1. A program analyst is responsible for the development of new and improved computer program.
 2. Organizing information about a problem to be addressed or a procedure to be improved.
@@ -16,6 +17,7 @@ Programmer analyst
 [About Me](AboutMe.md)
 
 ---
+# table
 
 I am sharing few of my favorite places which i would recommend to visit.
 |Location| Time | Expenditure |
