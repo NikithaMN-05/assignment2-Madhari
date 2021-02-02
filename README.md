@@ -23,6 +23,7 @@ I am sharing few of my favorite places which i would recommend to visit.
 |Nepal| 6 | $600 |
 |Varanasi| 5 | $500 |
 |Goa | 4 | $300 |
+|Banglore|7|$400|
 
 ![My Picture](nepal.jpg)
 ![My Picture](varanasi.jpg)
