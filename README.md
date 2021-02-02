@@ -28,6 +28,7 @@ I am sharing few of my favorite places which i would recommend to visit.
 ![My Picture](nepal.jpg)
 ![My Picture](varanasi.jpg)
 ![My Picture](Goa.jpg)
+![My Picture](banglore.jpg)
 ---
 # My favorite qoutes
 
